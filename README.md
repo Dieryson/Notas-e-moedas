@@ -1,2 +1,2 @@
 # Notas-e-moedas
-quantas notas e moedas necessita, para uma quantidade de dinheiro ! 
+programa que mostra quantas notas e moedas nescessita, para uma determinada quantida de dinheiro!
